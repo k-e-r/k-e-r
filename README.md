@@ -12,7 +12,7 @@
 <p>Links:</p>
 
 All of my projects are available at<br>[https://www.kestudies.com/](https://www.kestudies.com/)<br>
-How to reach me<br>**https://www.kestudies.com/**<br>
+How to reach me<br>**kestudyforemail@gmail.com**<br>
 Know about my experiences<br>[https://www.linkedin.com/in/kaori-era-244028203/](https://www.linkedin.com/in/kaori-era-244028203/)
 
 </div>
