@@ -1,4 +1,5 @@
-<p align="center">A front-end developer who has a hardware background of 9+ years and loves building creative websites and applications that make life easier. I also love eating tasty food, going for walks, and doing handicrafts :)</p>
+<h1 align="center">Hi, I'm Kaori Era 👋</h1>
+<p>A front-end developer who has a hardware background of 9+ years and loves building creative websites and applications that make life easier. I also love eating tasty food, going for walks, and doing handicrafts :)</p>
 
 <br>
 
@@ -8,7 +9,7 @@
 </p>
 
 <br>
-<p>Links</p>
+<p>Links:</p>
 
 All of my projects are available at<br>[https://www.kestudies.com/](https://www.kestudies.com/)<br>
 How to reach me<br>**https://www.kestudies.com/**<br>
